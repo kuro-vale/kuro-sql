@@ -7,4 +7,4 @@ Codewars discourage sharing solutions, that's why I only share my 8 kyu solution
 
 ### Current SQL rank
 
-![SQL Rank](https://shields.io/badge/-7%20kyu-white?logo=postgresql&style=for-the-badge)
+![SQL Rank](https://shields.io/badge/-6%20kyu-white?logo=postgresql&style=for-the-badge)
